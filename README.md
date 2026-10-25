@@ -102,8 +102,10 @@ Measured results should be added here once verified on the actual hardware.
 ## 📷 Project Images
 <img width="1070" height="807" alt="image" src="https://github.com/user-attachments/assets/12db909d-7793-497a-90bc-fb1b40bbf910" />
 
+<img width="785" height="377" alt="image" src="https://github.com/user-attachments/assets/20dfb346-82ad-4fe1-9fb6-1a671d59c90f" />
 
-Add your actual prototype and system diagrams to the repository.
+<img width="798" height="382" alt="image" src="https://github.com/user-attachments/assets/1176cb2f-ef87-4574-8f2f-da2188e03d35" />
+
 
 
 ## 🚀 Getting Started
