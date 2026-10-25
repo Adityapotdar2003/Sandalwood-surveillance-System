@@ -100,6 +100,8 @@ The following tests are recommended for evaluating the implemented prototype:
 Measured results should be added here once verified on the actual hardware.
 
 ## 📷 Project Images
+<img width="1070" height="807" alt="image" src="https://github.com/user-attachments/assets/12db909d-7793-497a-90bc-fb1b40bbf910" />
+
 
 Add your actual prototype and system diagrams to the repository.
 
