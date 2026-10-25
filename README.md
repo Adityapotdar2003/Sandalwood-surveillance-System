@@ -103,20 +103,6 @@ Measured results should be added here once verified on the actual hardware.
 
 Add your actual prototype and system diagrams to the repository.
 
-Suggested files:
-
-- `docs/system-architecture.png`
-- `docs/hardware-prototype.jpg`
-- `docs/wireless-communication.png`
-- `docs/testing-results.png`
-
-Example Markdown:
-
-```markdown
-![System Architecture](docs/system-architecture.png)
-
-![Hardware Prototype](docs/hardware-prototype.jpg)
-```
 
 ## 🚀 Getting Started
 
